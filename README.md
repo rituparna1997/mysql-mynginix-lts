@@ -1,1 +1,1 @@
-# mysql-mynginix-lts
+# helm-msql-nginx

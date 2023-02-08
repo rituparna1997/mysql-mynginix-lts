@@ -1,0 +1,4 @@
+apiVersion: v2
+name: my-nginx-mysql
+description: Deploys NGINX and MySQL in a Kubernetes cluster
+version: latest
