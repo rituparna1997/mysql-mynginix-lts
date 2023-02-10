@@ -24,6 +24,6 @@ spec:
               mountPath: /etc/nginx/nginx.conf
               subPath: nginx.conf
       volumes:
-        - name: nginx-config
+        - name: nginx-config1
           configMap:
-            name: nginx-config
+            name: nginx-config1
