@@ -1,0 +1,4 @@
+apiVersion: v2
+name: mysql-helm-chart
+description: MySQL in a Kubernetes cluster
+version: latest

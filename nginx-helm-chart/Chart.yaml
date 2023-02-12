@@ -1,0 +1,4 @@
+apiVersion: v2
+name: nginx-helm-chart
+description: Deploys NGINX in a Kubernetes cluster
+version: latest
